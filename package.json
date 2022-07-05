@@ -1,0 +1,17 @@
+{
+  "name": "image-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-to-text": "^1.0.8",
+    "node-tesseract": "^0.2.7",
+    "tesseract.js": "^2.1.1"
+  }
+}
